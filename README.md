@@ -1,22 +1,51 @@
-### Hi there 👋
+## Hello there, I am Fikret 👋
+<!---<img src="https://icon-library.com/images/php-icon-png/php-icon-png-0.jpg" width="40"> -->
 
+🔭 I am a computer engineering student at Pamukkale University <br>
+🌱 I am currently learning  <img src="https://icon-library.com/images/php-icon-png/php-icon-png-0.jpg" width="35">
+<br>
+<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="310" height="310">
 
-
-
-<h1 align="center">Awesome GitHub Profile README 
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<br>
 <br>
 
-<i>A curated list of awesome Github Profile READMEs</i>
+## Social Media
+[![Medium](https://img.shields.io/badge/-Medium-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://medium.com/@fikretcansel)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fikretcansel/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fikret_312@hotmail.com)
+
+<br> 
+<br> 
+<br>
+<br>
+<br>
+
+
+## Profile Views  <img align="left" src="https://media.giphy.com/media/aA3mUKSrVr7gI/giphy.gif?cid=ecf05e47ahq84p2mqa575xdpf4q3gixwo2i0khzr4lk5psbd&rid=giphy.gif&ct=s" width="70">
+  <p><img src="https://profile-counter.glitch.me/{FikretCansel}/count.svg" alt="FikretCansel :: Visitor's Count" /></p>
+
+<br><br>
+
+## Most Used Languages
+<!--<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p> -->
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p>
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
-**FikretCansel/FikretCansel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**busrabhur/busrabhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

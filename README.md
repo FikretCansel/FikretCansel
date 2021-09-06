@@ -2,9 +2,7 @@
 <!---<img src="https://icon-library.com/images/php-icon-png/php-icon-png-0.jpg" width="40"> -->
 
 🔭 I am a computer engineering student at Pamukkale University <br>
-<br>
 
-<br>
 
 ## Social Media
 [![Medium](https://img.shields.io/badge/-Medium-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://medium.com/@fikretcansel)
